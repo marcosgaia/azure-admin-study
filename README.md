@@ -62,7 +62,9 @@ Este projeto tem como propósito:
 
 ---
 
-## 🖼️ Capturas de Tela (Opcional)
+## 🏗️ Arquitetura Completa do Ambiente Azure
+![Arquitetura Azure](images/diagrama-final.png)
+
 
 
 ---
