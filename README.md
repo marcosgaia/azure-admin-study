@@ -60,10 +60,6 @@ Este projeto tem como propósito:
 - Balanceadores de carga integrados  
 - Redução automática de custos em períodos de baixa demanda  
 
----
-
-## 🏗️ Arquitetura Completa do Ambiente Azure
-![Arquitetura Azure](images/diagrama-final.png)
 
 
 
