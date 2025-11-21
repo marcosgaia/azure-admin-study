@@ -65,3 +65,16 @@ Este projeto tem como propósito:
 ## 🖼️ Capturas de Tela (Opcional)
 
 
+---
+
+## 📚 Referências Utilizadas
+- **Microsoft Learn**  
+- **Azure Docs – Virtual Machines / VMSS / Availability**  
+- **Aulas e laboratórios da DIO**  
+
+---
+
+## 🚀 Conclusão  
+Este repositório reúne minha evolução e entendimento sobre administração de VMs no Azure.  
+Será atualizado continuamente conforme avanço nos estudos da certificação **AZ-104**.
+
